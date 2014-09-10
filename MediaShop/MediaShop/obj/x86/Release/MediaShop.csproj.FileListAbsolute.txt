@@ -1,0 +1,9 @@
+C:\Users\Kohlstrom\Documents\Visual Studio 2010\Projects\MediaShop\MediaShop\bin\Release\MediaShop.exe
+C:\Users\Kohlstrom\Documents\Visual Studio 2010\Projects\MediaShop\MediaShop\bin\Release\MediaShop.pdb
+C:\Users\Kohlstrom\Documents\Visual Studio 2010\Projects\MediaShop\MediaShop\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Kohlstrom\Documents\Visual Studio 2010\Projects\MediaShop\MediaShop\obj\x86\Release\MediaShop.Hub.resources
+C:\Users\Kohlstrom\Documents\Visual Studio 2010\Projects\MediaShop\MediaShop\obj\x86\Release\MediaShop.Properties.Resources.resources
+C:\Users\Kohlstrom\Documents\Visual Studio 2010\Projects\MediaShop\MediaShop\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Kohlstrom\Documents\Visual Studio 2010\Projects\MediaShop\MediaShop\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Kohlstrom\Documents\Visual Studio 2010\Projects\MediaShop\MediaShop\obj\x86\Release\MediaShop.exe
+C:\Users\Kohlstrom\Documents\Visual Studio 2010\Projects\MediaShop\MediaShop\obj\x86\Release\MediaShop.pdb
